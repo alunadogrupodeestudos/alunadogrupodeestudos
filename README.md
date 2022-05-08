@@ -1,5 +1,5 @@
-### sou rosilei, trabalho...
-
+### Olá sou rosilei, trabalho no CEEBJA de Londrina com a disciplina de matemática.
+ 
 <!--
 **alunadogrupodeestudos/alunadogrupodeestudos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
